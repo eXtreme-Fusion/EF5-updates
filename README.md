@@ -1,5 +1,6 @@
-ef5-updates
+Updates for [eXtreme-Fusion 5](http://extreme-fusion.org/)
 ===========
 
-Updates for eXtreme-Fusion 5
+How to get it
+-------------
 Switch branch to get specific version.
