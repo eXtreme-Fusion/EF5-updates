@@ -1,4 +1,5 @@
 ef5-updates
 ===========
 
-Updated for eXtreme-Fusion 5
+Updates for eXtreme-Fusion 5
+Switch branch to get specific version.
