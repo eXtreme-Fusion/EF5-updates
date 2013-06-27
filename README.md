@@ -1,5 +1,5 @@
-[eXtreme-Fusion 5](http://extreme-fusion.org/) updating center
-===========
+[eXtreme-Fusion 5](http://extreme-fusion.org/)
+==================
 
 Available updates
 -------------
