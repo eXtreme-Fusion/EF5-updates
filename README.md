@@ -1,4 +1,4 @@
-Updates for [eXtreme-Fusion 5](http://extreme-fusion.org/)
+[eXtreme-Fusion 5](http://extreme-fusion.org/) updating center
 ===========
 
 Available updates
