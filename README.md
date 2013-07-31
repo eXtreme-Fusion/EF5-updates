@@ -1,8 +1,6 @@
-[eXtreme-Fusion 5](http://extreme-fusion.org/)
-==================
-Content Management System based on PHP OOP, Open Power Template and jQuery.
+Aby dokonać aktualizacji:
 
-Available updates
------------------
-- [From 5.0.0 and 5.0.1 to 5.0.2](https://github.com/extreme-fusion/EF5-updates/archive/eXtreme-Fusion_5.0.2_Update.zip)
-- From 5.0.2 to 5.0.3 - not ready yet
+1. Wrzuć, poprzez klienta FTP, zawartość katalogu "update" do głównego katalogu strony, nadpisując pliki i katalogi.
+2. Przejdź do Panelu admina, zakładki "Zarządzanie stroną", podstrony "Aktualizacja".
+3. Dokonaj aktualizacji.
+4. Wrzuć, poprzez klienta FTP, zawartość katalogu "files" do głównego katalogu strony, nadpisując pliki i katalogi.
